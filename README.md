@@ -1,4 +1,4 @@
-📫 You can reach me: instagram - @elh_ayoub_
+📫 You can reach me: <a href="https://www.linkedin.com/in/ayoub-el-haddadi-590b99219/">LinkedIn</a> Or <a href="https://www.instagram.com/elh_ayoub_/">Instagram</a>
 
 
 😄 Languages: English, Arabic, Russian.
