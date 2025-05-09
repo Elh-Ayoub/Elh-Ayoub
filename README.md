@@ -11,7 +11,6 @@ Software Engineer | Web Enthusiast | Lifelong Learner
 ## 📬 Let’s Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?logo=linkedin)](https://www.linkedin.com/in/ayoub-el-haddadi-590b99219/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Code-black?logo=github)](https://github.com/Elh-Ayoub)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:a.elhaddadi@solinect.com)
 
 ## 📈 My GitHub stats
