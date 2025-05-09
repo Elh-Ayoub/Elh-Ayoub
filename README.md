@@ -1,21 +1,18 @@
 #  Hi, I'm Ayoub 👋
+Software Engineer | Web Enthusiast | Lifelong Learner
 
-🌱 I’m a Full stack developer with a bachelor degree in Computer Engineering. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+## 📈 Experience
+* Bachelor’s Degree in Computer Engineering
+* Crafting scalable web solutions (and surviving merge conflicts)
+* Transforming caffeine into code
+* Successfully migrated from "it works on my machine" to "it works in prod"
 
 
-## 📫 How to Reach Me
+## 📬 Let’s Collaborate
 
-<p align="center">
-  <a href="https://github.com/Elh-Ayoub">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/ayoub-el-haddadi-590b99219">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="mailto:contact@aelhaddadi.com">
-    <img alt="Email" title="Email" height="48" width="48" src="https://cdn.simpleicons.org/mail.ru"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?logo=linkedin)](https://www.linkedin.com/in/ayoub-el-haddadi-590b99219/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Code-black?logo=github)](https://github.com/Elh-Ayoub)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:a.elhaddadi@solinect.com)
 
 ## 📈 My GitHub stats
 
@@ -25,3 +22,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
+
+<i>“First principles thinking, clean code, and strong coffee.”</i>
